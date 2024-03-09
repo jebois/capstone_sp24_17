@@ -1,0 +1,13 @@
+names:
+- Pothole
+- Road Debris
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: capstone-uyctt
+  url: https://universe.roboflow.com/sp2417/capstone-uyctt/dataset/10
+  version: 10
+  workspace: sp2417
+test: /home/autoraem/projects/capstone_sp24_17/Capstone-10/test/images
+train: /home/autoraem/projects/capstone_sp24_17/Capstone-10/train/images
+val: /home/autoraem/projects/capstone_sp24_17/Capstone-10/valid/images
